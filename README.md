@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Mandal</h1>
 
-<!-- Typing Effect (Fixed Server) -->
+<!-- Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Backend+Developer;Full-Stack+Engineer;Java+%26+Spring+Boot+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing MCA (2024–2026) to further strengthen my computer science fundamentals.
+- 🎓 Pursuing MCA (2025–2027) to further strengthen my computer science fundamentals.
 - 💼 Gained practical industry experience through a 2-month Full-Stack Web Development internship.
 - 🚀 Achieved a perfect **10/10 Live Coding Score** in the Superset Launchpad National Technical Assessment.
 - 🌐 Developed an interactive **3D AI Portfolio**, alongside scalable full-stack apps like an AI-Integrated Social Media Interface.
@@ -39,7 +39,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15&dummy=888" alt="sachinmandal23" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15" alt="sachinmandal23" />
   </a>
 </p>
 
@@ -67,5 +67,5 @@
 
 <h2 align="center">🐍 My Contribution Graph</h2>
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg?dummy=888">
+  <img alt="github contribution grid snake animation" src="https://github.com/Sachinmandal23/Sachinmandal23/blob/output/github-contribution-grid-snake.svg?raw=true">
 </p>
