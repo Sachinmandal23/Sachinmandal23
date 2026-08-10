@@ -39,7 +39,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15&nocache=1" alt="sachinmandal23" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15&dummy=888" alt="sachinmandal23" />
   </a>
 </p>
 
@@ -67,9 +67,5 @@
 
 <h2 align="center">🐍 My Contribution Graph</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg?v=1">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg?dummy=888">
 </p>
