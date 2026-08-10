@@ -44,7 +44,9 @@
 <br/>
 
 <h2 align="center">📊 GitHub Stats & Streak</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinmandal23&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinmandal23&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinmandal23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinmandal23&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
