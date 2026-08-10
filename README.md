@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Mandal</h1>
 
-<!-- Typing Effect -->
+<!-- Typing Effect (Fixed Server) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Backend+Developer;Full-Stack+Engineer;Java+%26+Spring+Boot+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Backend+Developer;Full-Stack+Engineer;Java+%26+Spring+Boot+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15" alt="sachinmandal23" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15&nocache=1" alt="sachinmandal23" />
   </a>
 </p>
 
@@ -68,8 +68,8 @@
 <h2 align="center">🐍 My Contribution Graph</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </p>
