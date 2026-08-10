@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<!-- Social Links (Connect with me) -->
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:sachinm30k@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -27,7 +27,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing MCA (2025–2027) to further strengthen my computer science fundamentals.
+- 🎓 Pursuing MCA (2024–2026) to further strengthen my computer science fundamentals.
 - 💼 Gained practical industry experience through a 2-month Full-Stack Web Development internship.
 - 🚀 Achieved a perfect **10/10 Live Coding Score** in the Superset Launchpad National Technical Assessment.
 - 🌐 Developed an interactive **3D AI Portfolio**, alongside scalable full-stack apps like an AI-Integrated Social Media Interface.
@@ -36,27 +36,15 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🚀 3D Tech Stack & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,mysql,kafka,git,github,docker,postman,linux,idea,vscode" />
 </p>
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Streak</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinmandal23&show_icons=true&theme=radium&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinmandal23&theme=radium&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinmandal23&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinmandal23&theme=radical&hide_border=true" />
 </div>
-
-<br/>
-
-<h2 align="center">🐍 My Contribution Graph</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
