@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachinmandal23&label=Profile%20views&color=0e75b6&style=flat" alt="Sachinmandal23" />
+  <img src="https://komarev.com/ghpvc/?username=Sachinmandal23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -36,20 +36,11 @@
 
 <br/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachinmandal23&theme=radium&row=1&column=7&margin-w=15&margin-h=15" alt="sachinmandal23" />
-  </a>
-</p>
-
-<br/>
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -67,5 +58,5 @@
 
 <h2 align="center">🐍 My Contribution Graph</h2>
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://github.com/Sachinmandal23/Sachinmandal23/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img src="https://raw.githubusercontent.com/Sachinmandal23/Sachinmandal23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
